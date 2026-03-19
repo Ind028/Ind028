@@ -30,16 +30,6 @@
 - 🔹 Finance Calculators Platform
 - 🔹 Daily LeetCode (Consistency Mode 💯)
 
-<br>
-
-<h2 align="left">📈 Coding Stats</h2>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
-</div>
-
-<br>
 
 <h2 align="left">🌐 Connect with Me</h2>
 
