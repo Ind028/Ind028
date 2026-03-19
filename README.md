@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 <a href="YOUR_LEETCODE">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="60"/>
+  <img src="[https://skillicons.dev/icons?i=leetcode](https://leetcode.com/u/AeNvQ0hQt1/)" width="60"/>
 </a>
 <a href="YOUR_GITHUB">
   <img src="https://skillicons.dev/icons?i=github" width="60"/>
