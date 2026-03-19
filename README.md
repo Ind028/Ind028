@@ -31,6 +31,10 @@
 
 
 <h2 align="left">🌐 Connect with Me</h2>
+
+<div>
+<a href="YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 <a href="YOUR_LEETCODE">
   <img src="https://skillicons.dev/icons?i=leetcode" width="60"/>
