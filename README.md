@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h2 align="left">👩‍💻 About Me</h2>
+<h2 align="left">About Me</h2>
 
 - 
 - 
@@ -14,7 +14,7 @@
 
 <br>
 
-<h2 align="left">⚙️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,tailwind,mongodb,github,linux" />
@@ -22,12 +22,6 @@
 
 <br>
 
-<h2 align="left">📊 Currently Working On</h2>
-
-- 🔹 Credit Card Comparison System (Full Stack + Scraper)
-- 🔹 LLM-based Document Query System (FastAPI + Pinecone)
-- 🔹 Finance Calculators Platform
-- 🔹 Daily LeetCode (Consistency Mode 💯)
 
 
 <h2 align="left">🌐 Connect with Me</h2>
