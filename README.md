@@ -30,9 +30,7 @@
 <a href="YOUR_LINKEDIN">
   <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
-<a href="YOUR_LEETCODE">
-  <img src="[https://skillicons.dev/icons?i=leetcode](https://github.com/FortAwesome/Font-Awesome/issues/18643)" width="60"/>
-</a>
+
 <a href="YOUR_GITHUB">
   <img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
