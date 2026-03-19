@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Hi,+I'm+Indrani;CSE+Student+%7C+Future+Data+Scientist;DSA+%2B+Development+%2B+ML;Building+Cool+Stuff+Everyday" />
+</h1>
 
-<!--
-**Ind028/Ind028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/74038190/212284126-5c1f4c67-1c2b-4b2f-bef9-7b9d1c2c5a9f.gif" width="1000">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">👩‍💻 About Me</h2>
+
+- 🎓 3rd Year CSE Student  
+- 💡 Strong focus on **DSA (Python)** + Problem Solving  
+- 🚀 Preparing for **placements + top internships**  
+- 🧠 Interested in **Machine Learning & Data Science**  
+- ⚡ Building projects in **React, FastAPI & Finance Tech**  
+- 🎯 Goal: MS in Data Science (Top Universities)  
+
+<br>
+
+<h2 align="left">⚙️ Tech Stack</h2>
+
+<div>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,tailwind,fastapi,postgres,mongodb,git,github,linux" />
+</div>
+
+<br>
+
+<h2 align="left">📊 Currently Working On</h2>
+
+- 🔹 Credit Card Comparison System (Full Stack + Scraper)
+- 🔹 LLM-based Document Query System (FastAPI + Pinecone)
+- 🔹 Finance Calculators Platform
+- 🔹 Daily LeetCode (Consistency Mode 💯)
+
+<br>
+
+<h2 align="left">📈 Coding Stats</h2>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+</div>
+
+<br>
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<div>
+<a href="YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+<a href="YOUR_LEETCODE">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="60"/>
+</a>
+<a href="YOUR_GITHUB">
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
+</div>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
