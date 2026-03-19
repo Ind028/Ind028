@@ -38,7 +38,7 @@
 </a>
 
 <a href="YOUR_GITHUB">
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+  <img src="hhttps://github.com/Ind028" width="60"/>
 </a>
 </div>
 
