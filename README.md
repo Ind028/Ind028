@@ -6,19 +6,18 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-- 🎓 3rd Year CSE Student  
-- 💡 Strong focus on **DSA (Python)** + Problem Solving  
-- 🚀 Preparing for **placements + top internships**  
-- 🧠 Interested in **Machine Learning & Data Science**  
-- ⚡ Building projects in **React, FastAPI & Finance Tech**  
-- 🎯 Goal: MS in Data Science (Top Universities)  
+- 
+- 
+- 
+- 
+- 
 
 <br>
 
 <h2 align="left">⚙️ Tech Stack</h2>
 
 <div>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,tailwind,fastapi,postgres,mongodb,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,tailwind,mongodb,github,linux" />
 </div>
 
 <br>
