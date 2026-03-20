@@ -34,9 +34,7 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
-- 🤖 **[LLM-Powered Document Query System](#)** — AI-driven semantic search using GPT-4, Pinecone & LangChain *(Ongoing)*
 - 🎉 **[UDGAM 2024 – NIT Sikkim Cultural Fest Website](https://udgam.nitsikkim.ac.in/udgam24/)** — Official fest website with themed UI/UX & interactive components
-- 🚗 **[Car Rental Website](#)** — Full-stack rental system with auth, booking & admin panel using MySQL & Node.js
 - 💻 **[DevCans Club Website](https://devcans-nitsikkim.vercel.app/)** — Official site for NIT Sikkim's Coding & Development Club
 
 <br>
