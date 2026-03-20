@@ -53,6 +53,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E86C1&style=flat-square&label=Profile+Views" />
-</p>
+
