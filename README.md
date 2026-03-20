@@ -38,10 +38,13 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraniAdhikary&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraniAdhikary&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ind028&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ind028&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind028&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <h2 align="left">🌐 Connect with Me</h2>
