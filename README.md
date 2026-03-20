@@ -32,7 +32,7 @@
 <h2 align="left">🚀 Live Projects</h2>
 
 - **[UDGAM 2024 – NIT Sikkim Cultural Fest Website](https://udgam.nitsikkim.ac.in/udgam24/)** — Official fest website with themed UI/UX & interactive components
-- **[DevCans Club Website](https://devcans-nitsikkim.vercel.app/)** — Official site for NIT Sikkim's Coding & Development Club
+- **[DevCans Website](https://devcans-nitsikkim.vercel.app/)** — Official site for NIT Sikkim's Coding & Development Club
 
 <br>
 
