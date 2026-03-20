@@ -6,11 +6,8 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-- 🎓 B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027), CGPA: 7.20/10
+- 🎓 B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027)
 - 🔬 Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific and space applications
-- 🏆 Secured **6th place nationwide** at Bitathon (Data Analytics & Mining Championship, in association with SAS) among 2,000+ teams
-- 🎭 **Vice-President, UDGAM 2025** — NIT Sikkim's Annual Cultural Fest
-- ⚡ Fun fact: I can go from debugging a neural network to writing poetry for a literary club in the same afternoon!
 
 <br>
 
