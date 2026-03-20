@@ -43,7 +43,7 @@
   <img src="https://streak-stats.demolab.com/?user=ind028&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind028&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
