@@ -38,7 +38,7 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ind028&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=ind028&theme=tokyonight&hide_border=true" height="165"/>
 </p>
