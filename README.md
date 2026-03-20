@@ -4,17 +4,14 @@
 
 <br>
 
-<h2 align="left">👩‍💻 About Me</h2>
+<h2 align="left">About Me</h2>
 
-- 🎓 B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027), CGPA: 7.20/10
+- 🎓 B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027)
 - 🔬 Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific and space applications
-- 🏆 Secured **6th place nationwide** at Bitathon (Data Analytics & Mining Championship, in association with SAS) among 2,000+ teams
-- 🎭 **Vice-President, UDGAM 2025** — NIT Sikkim's Annual Cultural Fest
-- ⚡ Fun fact: I can go from debugging a neural network to writing poetry for a literary club in the same afternoon!
 
 <br>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,tailwind,nodejs,mysql,mongodb,github,git,figma,linux,html,css" />
@@ -22,7 +19,7 @@
 
 <br>
 
-<h2 align="left">💼 Experience</h2>
+<h2 align="left">Experience</h2>
 
 | Role | Company | Duration |
 |------|---------|----------|
@@ -32,16 +29,8 @@
 
 <br>
 
-<h2 align="left">🚀 Featured Projects</h2>
 
-- 🤖 **[LLM-Powered Document Query System](#)** — AI-driven semantic search using GPT-4, Pinecone & LangChain *(Ongoing)*
-- 🎉 **[UDGAM 2024 – NIT Sikkim Cultural Fest Website](#)** — Official fest website with themed UI/UX & interactive components
-- 🚗 **[Car Rental Website](#)** — Full-stack rental system with auth, booking & admin panel using MySQL & Node.js
-- 💻 **[DevCans Club Website](#)** — Official site for NIT Sikkim's Coding & Development Club
-
-<br>
-
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IndraniBhatt&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -51,7 +40,7 @@
 
 <br>
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">Connect with Me</h2>
 
 <div>
   <a href="YOUR_LINKEDIN_URL">
