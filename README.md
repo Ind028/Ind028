@@ -6,8 +6,8 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-- 🎓 B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027)
-- 🔬 Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific and space applications
+- B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027)
+- Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific and space applications
 
 <br>
 
@@ -23,16 +23,16 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🧬 Biomedical AI Intern | Valuekare Technologies Pvt. Ltd. | Dec 2025 – Present |
-| 💻 Frontend Developer Intern | iGurus Consultancy Services LLP | Jun – Aug 2025 |
-| 🧪 Software Testing Intern | Denaurlen Pvt. Ltd. | Jun – Aug 2024 |
+| Biomedical AI Intern | Valuekare Technologies Pvt. Ltd. | Dec 2025 – Present |
+| Frontend Developer Intern | iGurus Consultancy Services LLP | Jun – Aug 2025 |
+| Software Testing Intern | Denaurlen Pvt. Ltd. | Jun – Aug 2024 |
 
 <br>
 
 <h2 align="left">🚀 Featured Projects</h2>
 
-- 🎉 **[UDGAM 2024 – NIT Sikkim Cultural Fest Website](https://udgam.nitsikkim.ac.in/udgam24/)** — Official fest website with themed UI/UX & interactive components
-- 💻 **[DevCans Club Website](https://devcans-nitsikkim.vercel.app/)** — Official site for NIT Sikkim's Coding & Development Club
+- **[UDGAM 2024 – NIT Sikkim Cultural Fest Website](https://udgam.nitsikkim.ac.in/udgam24/)** — Official fest website with themed UI/UX & interactive components
+- **[DevCans Club Website](https://devcans-nitsikkim.vercel.app/)** — Official site for NIT Sikkim's Coding & Development Club
 
 <br>
 
