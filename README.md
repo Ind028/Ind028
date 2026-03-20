@@ -23,9 +23,9 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🧬 Biomedical AI Intern | Valuekare Technologies Pvt. Ltd. | Dec 2025 – Present |
-| 💻 Frontend Developer Intern | iGurus Consultancy Services LLP | Jun – Aug 2025 |
-| 🧪 Software Testing Intern | Denaurlen Pvt. Ltd. | Jun – Aug 2024 |
+| Biomedical AI Intern | Valuekare Technologies Pvt. Ltd. | Dec 2025 – Present |
+| Frontend Developer Intern | iGurus Consultancy Services LLP | Jun – Aug 2025 |
+| Software Testing Intern | Denaurlen Pvt. Ltd. | Jun – Aug 2024 |
 
 <br>
 
