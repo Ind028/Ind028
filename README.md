@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Indrani+Adhikary+%F0%9F%91%8B;CSE+Student+%40+NIT+Sikkim" />
 </h1>
 <p align="center">
-  <img src="[https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5OTUwODQsIm5iZiI6MTc3Mzk5NDc4NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIwVDA4MTk0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4YjNmNGJmOGVkNGU1MDI3MzE3MjFkYTRmOWQwZjA2NWNiMDYzMWU2ZDZkNTAzNmVjNGMzMzU5MTU0NWY2OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QwPuLY3A_dmrva2GCPKtCePnBxtmm_6Kny73VRrKNMg)?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5OTA1NTQsIm5iZiI6MTc3Mzk5MDI1NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIwVDA3MDQxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxODg5MTRhZTZlZGE3M2Q2MDVlYzA3NzhiMDZkNDRiODA2MjcyNWFlZDBiNDdmNmZjNjZmYzdkZTlkZWRhYzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bxCO1iwGmid3UeJnSWV0KFiIWGiNvuMW6UWKOlgjcz8" width="100%" style="max-width:900px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" 
+       width="100%" 
+       style="max-width:900px;"/>
 </p>
 <br>
 
