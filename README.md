@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Indrani+Adhikary+%F0%9F%91%8B;CSE+Student+%40+NIT+Sikkim" />
 </h1>
 <h2 align="left">👩‍💻 About Me</h2>
-
 - B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027)
 - Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific and space applications
 
