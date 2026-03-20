@@ -47,11 +47,11 @@
 <h2 align="left">🌐 Connect with Me</h2>
 
 <div>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/indrani-adhikary-1006422b5/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ind028">
     <img src="https://skillicons.dev/icons?i=github" width="55"/>
   </a>
   &nbsp;
