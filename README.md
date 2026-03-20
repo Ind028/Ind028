@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Indrani+Adhikary+%F0%9F%91%8B;CSE+Student+%40+NIT+Sikkim" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Indrani+Adhikary+%F0%9F%91%8B;CSE+Student+%40+NIT+Sikkim" />
+</h1>
 
 <h2 align="left">👩‍💻 About Me</h2>
 
