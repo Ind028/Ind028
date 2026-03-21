@@ -4,7 +4,7 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 - B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027)
-- Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific and space applications
+- Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific applications
 
 <br>
 
