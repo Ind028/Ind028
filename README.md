@@ -68,3 +68,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E86C1&s
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF007F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thank+You+for+stopping+by!" />
+</h1>
