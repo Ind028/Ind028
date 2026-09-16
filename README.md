@@ -1,14 +1,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=FF007F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Indrani+Adhikary+%F0%9F%91%8B;CSE+Student+%40+NIT+Sikkim" />
 </h1>
-<h2 align="left">👩‍💻 About Me</h2>
+<h2 align="left">About Me</h2>
 
 - B.Tech CSE student at **National Institute of Technology Sikkim** (2023–2027).
 - Passionate about **Machine Learning, Image Processing & Data Analysis** — especially for scientific applications.
 
 <br>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,tailwind,nodejs,mysql,mongodb,github,figma,html,css" />
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="left">💼 Experience</h2>
+<h2 align="left">Experience</h2>
 
 | Role | Company | Duration |
 |------|---------|----------|
@@ -26,14 +26,14 @@
 
 <br>
 
-<h2 align="left">🚀 Live Projects</h2>
+<h2 align="left">Live Projects</h2>
 
 - **[UDGAM 2024 – NIT Sikkim Cultural Fest Website](https://udgam.nitsikkim.ac.in/udgam24/)** — Official fest website with themed UI/UX & interactive components
 - **[DevCans Website](https://devcans-nitsikkim.vercel.app/)** — Official site for NIT Sikkim's Coding & Development Club
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ind028&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind028&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">Connect with Me</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/indrani-adhikary-1006422b5/">
